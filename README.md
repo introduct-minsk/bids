@@ -1,4 +1,4 @@
-###Bit placement app
+###Bid placement app
 
 ####Setup with docker-compose
 * Install docker and docker-compose
